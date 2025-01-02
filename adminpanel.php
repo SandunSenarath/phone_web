@@ -64,7 +64,7 @@ $orders = $conn->query("SELECT * FROM orders");
     </style>
 </head>
 <body>
-    <h1>Furniture Shop Admin Panel</h1>
+    <h1>Admin Panel</h1>
 
     <h2>Manage Products</h2>
     <div class="form-container">
