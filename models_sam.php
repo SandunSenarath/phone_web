@@ -262,11 +262,8 @@ Snapdragon 7 Gen 1 processor<br>
 Up to 8GB RAM, 256GB storage<br>
 50MP main camera<br>
 5000mAh battery<br><br>
-<<<<<<< HEAD
 Rs 1,14000.00</p>
-=======
-Rs.1,14000.00</p>
->>>>>>> 034cdb2ec55080104043a047b603658e96f51ac7
+
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
