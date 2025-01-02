@@ -131,7 +131,8 @@ Snapdragon 8 Gen 3 processor<br>
 Up to 12GB RAM and 1TB storage<br>
 200MP main camera with enhanced AI features<br>
 5000mAh battery<br>
-S Pen support</p>
+S Pen support<br><br>
+Rs.2,90000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -150,7 +151,8 @@ S Pen support</p>
 Snapdragon 8 Gen 3 processor<br>
 8GB RAM and up to 256GB storage<br>
 50MP main camera<br>
-4000mAh battery</p>
+4000mAh battery<br><br>
+Rs.2,75000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -166,7 +168,8 @@ Snapdragon 8 Gen 3 processor<br>
 6.2" cover display<br>
 Snapdragon 8 Gen 2 processor<br>
 12GB RAM<br>
-Improved hinge design.</p>
+Improved hinge design.<br><br>
+Rs.3,90000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -181,7 +184,9 @@ Improved hinge design.</p>
         <p class="card-text">6.7" main display when unfolded<br>
 3.4" cover display<br>
 Snapdragon 8 Gen 2 processor<br>
-8GB RAM.</p>
+8GB RAM.<br>
+<br>
+Rs.1,85000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -203,7 +208,8 @@ Exynos 1480 processor<br>
 Up to 8GB RAM, 256GB storage<br>
 50MP main camera<br>
 5000mAh battery<br>
-IP67 water resistance.</p>
+IP67 water resistance.<br><br>
+Rs.92,000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -219,7 +225,7 @@ IP67 water resistance.</p>
 Exynos 1380 processor<br>
 6/8GB RAM, up to 256GB storage<br>
 48MP main camera<br>
-5000mAh battery</p>
+5000mAh battery<br><br>Rs.70,000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -235,7 +241,8 @@ Exynos 1380 processor<br>
 Exynos 1280 processor<br>
 6/8GB RAM, 128GB storage<br>
 50MP main camera<br>
-5000mAh battery</p>
+5000mAh battery<br><br>
+Rs.62,000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -254,7 +261,8 @@ Exynos 1280 processor<br>
 Snapdragon 7 Gen 1 processor<br>
 Up to 8GB RAM, 256GB storage<br>
 50MP main camera<br>
-5000mAh battery</p>
+5000mAh battery<br><br>
+Rs 1,14000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -270,7 +278,8 @@ Up to 8GB RAM, 256GB storage<br>
 MediaTek processor<br>
 6GB RAM, 128GB storage<br>
 50MP main camera<br>
-6000mAh battery.</p>
+6000mAh battery<br><br>
+Rs.60,000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
