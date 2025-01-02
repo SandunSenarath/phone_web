@@ -90,6 +90,8 @@
                       <input type="text" id="email" name="email" placeholder="youremail@gmail.com">
                       <label for="adr"><i class="fa fa-address-card-o"></i> Address</label>
                       <input type="text" id="adr" name="address" placeholder="542 , Street">
+                      <label for="mdl"><i class="fa fa-model-card-o"></i> Model</label>
+                      <input type="text" id="mdl" name="model" placeholder="SAMSUNG A55">
           
                       <div class="row">
                         <div class="col-50">
