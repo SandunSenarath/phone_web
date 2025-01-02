@@ -39,7 +39,7 @@ $orders = $conn->query("SELECT * FROM orders");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="adminpanel.css">
+    <link rel="stylesheet" href="CSS/adminpanel.css">
     <title>Admin Panel</title>
     <style>
         body {
