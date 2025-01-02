@@ -84,6 +84,8 @@
                   <div class="row">
                     <div class="col-50">
                       <h3>Billing Address</h3>
+                      <label for="mdl"><i class="fa fa-model-card-o"></i> Model</label>
+                      <input type="text" id="model" name="model" placeholder="SAMSUNG A55">
                       <label for="fname"><i class="fa fa-user"></i> Full Name</label>
                       <input type="text" id="fname" name="firstname" placeholder="Your Name">
                       <label for="email"><i class="fa fa-envelope"></i> Email</label>
