@@ -262,7 +262,11 @@ Snapdragon 7 Gen 1 processor<br>
 Up to 8GB RAM, 256GB storage<br>
 50MP main camera<br>
 5000mAh battery<br><br>
+<<<<<<< HEAD
 Rs 1,14000.00</p>
+=======
+Rs.1,14000.00</p>
+>>>>>>> 034cdb2ec55080104043a047b603658e96f51ac7
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -278,7 +282,11 @@ Rs 1,14000.00</p>
 MediaTek processor<br>
 6GB RAM, 128GB storage<br>
 50MP main camera<br>
+<<<<<<< HEAD
 6000mAh battery<br><br>
+=======
+6000mAh battery.<br><br>
+>>>>>>> 034cdb2ec55080104043a047b603658e96f51ac7
 Rs.60,000.00</p>
       </div>
       <div class="card-footer">
@@ -293,7 +301,8 @@ Rs.60,000.00</p>
         <h5 class="card-title">Galaxy F55 5G</h5>
         <p class="card-text">Similar specs to A55 with market-specific variations<br>
 Online exclusive availability<br>
-Competitive pricing</p>
+Competitive pricing<br><br>
+Rs.79,000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
