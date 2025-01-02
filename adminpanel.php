@@ -60,7 +60,7 @@ $orders = $conn->query("SELECT * FROM orders");
     <div class="form-container">
         <form method="POST">
             <input type="text" name="name" placeholder="Product Name" required>
-            <input type="text" name="category" placeholder="Category" required>
+            <input type="text" name="details" placeholder="Details" required>
             <input type="number" step="0.01" name="price" placeholder="Price" required>
             <button type="submit" name="add_product">Add Product</button>
         </form>
