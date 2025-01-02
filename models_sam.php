@@ -279,11 +279,7 @@ Rs 1,14000.00</p>
 MediaTek processor<br>
 6GB RAM, 128GB storage<br>
 50MP main camera<br>
-<<<<<<< HEAD
 6000mAh battery<br><br>
-=======
-6000mAh battery.<br><br>
->>>>>>> 034cdb2ec55080104043a047b603658e96f51ac7
 Rs.60,000.00</p>
       </div>
       <div class="card-footer">
