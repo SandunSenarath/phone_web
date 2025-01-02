@@ -167,7 +167,7 @@ Camera: 50MP main + 2MP macro<br>
 Front Camera: 8MP<br>
 Battery: 5000mAh, 18W charging<br>
 RAM/Storage: Up to 8GB/256GB<br>
-Special Features: Side fingerprint sensor.</p>
+Special Features: Side fingerprint sensor.<br><br>Rs.39,500.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -185,7 +185,7 @@ Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 8MP<br>
 Battery: 5000mAh, 18W charging<br>
 RAM/Storage: Up to 8GB/128GB<br>
-Special Features: IP53 rating, Glass back.</p>
+Special Features: IP53 rating, Glass back.<br><br>Rs.41,990.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -208,7 +208,7 @@ Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 16MP<br>
 Battery: 5000mAh, 120W charging<br>
 RAM/Storage: Up to 24GB/1TB<br>
-Special Features: IR blaster, Dolby Vision</p>
+Special Features: IR blaster, Dolby Vision<br><br>Rs.111,100.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -224,7 +224,7 @@ Special Features: IR blaster, Dolby Vision</p>
 Processor: Snapdragon 8 Gen 2<br>
 Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
 Battery: 5500mAh, 120W charging<br>
-RAM/Storage: Up to 16GB/1TB</p>
+RAM/Storage: Up to 16GB/1TB<br><br>Rs.111,290.00</p>
       </div>   
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -241,7 +241,7 @@ Processor: MediaTek Helio G36<br>
 Camera: 8MP main<br>
 Battery: 5000mAh<br>
 RAM/Storage: Up to 4GB/64GB<br>
-Special Features: Leather-like back design</p>
+Special Features: Leather-like back design<br><br>Rs.32000.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
