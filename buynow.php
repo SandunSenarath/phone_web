@@ -8,6 +8,37 @@
     <link rel="stylesheet" href="CSS/buy.css">
 </head>
 <body>
+  <?php
+    require_once 'public/dbconnect.php';
+    require_once 'public/functions.php';
+
+    function addData($connect,$model,$fullname,$email,$address){
+      try{
+        $sql = "INSERT INTO buynow values('$model','$fullname','$email','$address')";
+      
+      $result = mysqli_query($connect,$sql);
+      if($result){
+        //echo "record successfully";
+      }else{
+        die("Error".mysqli_error($connect));
+      }
+      }catch(Exception $e) {
+        die($e->getMessage());
+      }
+    }
+
+    if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+      //echo "Get the post request from the client";
+      $product_id = $_POST['product_id'];
+      $product_name = $_POST['product_name'];
+      $description = $_POST['description'];
+      $price = $_POST['price'];
+
+  }
+
+  addData($connect,$product_id,$product_name,$description,$price);
+
+  ?>
     <script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js">
     </script>
   <header>
