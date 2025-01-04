@@ -3,11 +3,11 @@ require_once 'dbconnect.php';
 
 // Add product
 if (isset($_POST['add_product'])) {
-    $name = $_POST['name'];
-    $category = $_POST['category'];
+    $product_name = $_POST['product_name'];
+    $details = $_POST['details'];
     $price = $_POST['price'];
 
-    $sql = "INSERT INTO products (name, category, price) VALUES ('$name', '$category', '$price')";
+    $sql = "INSERT INTO products (product_name, details, price) VALUES ('$product_name', '$details', '$price')";
     $conn->query($sql);
 }
 
