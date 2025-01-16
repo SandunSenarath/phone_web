@@ -1,23 +1,13 @@
 <!--<?php
-$host = 'localhost';
-$user = 'root'; // Replace with your MySQL username
-$password = ''; // Replace with your MySQL password
-$dbname = 'furniture_shop';
-
-// Connect to database
-$conn = new mysqli($host, $user, $password, $dbname);
-
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
+require_once 'dbconnect.php';
 
 // Add product
 if (isset($_POST['add_product'])) {
-    $name = $_POST['name'];
-    $category = $_POST['category'];
+    $product_name = $_POST['product_name'];
+    $details = $_POST['details'];
     $price = $_POST['price'];
 
-    $sql = "INSERT INTO products (name, category, price) VALUES ('$name', '$category', '$price')";
+    $sql = "INSERT INTO products (product_name, details, price) VALUES ('$product_name', '$details', '$price')";
     $conn->query($sql);
 }
 
@@ -39,7 +29,7 @@ $orders = $conn->query("SELECT * FROM orders");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="CSS/adminpanel.css">
+    <link rel="stylesheet" href="adminpanel.css">
     <title>Admin Panel</title>
     <style>
         body {
@@ -64,14 +54,19 @@ $orders = $conn->query("SELECT * FROM orders");
     </style>
 </head>
 <body>
-    <h1>Furniture Shop Admin Panel</h1>
+    <h1>Admin Panel</h1>
 
     <h2>Manage Products</h2>
     <div class="form-container">
         <form method="POST">
             <input type="text" name="name" placeholder="Product Name" required>
+<<<<<<< HEAD
             <input type="text" name="details" placeholder="details" required>
             <input type="number" step="0.01" name="price" placeholder="Price" required>
+=======
+            <input type="text" name="details" placeholder="Details" required>
+            <input type="number" name="price" placeholder="Price" required>
+>>>>>>> 1206b031aec91a3f7c30f6ebcc394ca60e7a4efc
             <button type="submit" name="add_product">Add Product</button>
         </form>
     </div>
