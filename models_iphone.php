@@ -113,7 +113,7 @@
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/Apple-iPhone13-Pro.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">iPhone 14</h5>
         <p class="card-text">Display: 6.1-inch Super Retina XDR display   
