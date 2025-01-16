@@ -262,7 +262,8 @@ Snapdragon 7 Gen 1 processor<br>
 Up to 8GB RAM, 256GB storage<br>
 50MP main camera<br>
 5000mAh battery<br><br>
-Rs.1,14000.00</p>
+Rs 1,14000.00</p>
+
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -278,7 +279,7 @@ Rs.1,14000.00</p>
 MediaTek processor<br>
 6GB RAM, 128GB storage<br>
 50MP main camera<br>
-6000mAh battery.<br><br>
+6000mAh battery<br><br>
 Rs.60,000.00</p>
       </div>
       <div class="card-footer">
