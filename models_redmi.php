@@ -172,7 +172,8 @@ Camera: 50MP main + 2MP macro<br>
 Front Camera: 8MP<br>
 Battery: 5000mAh, 18W charging<br>
 RAM/Storage: Up to 8GB/256GB<br>
-Special Features: Side fingerprint sensor.</p>
+Special Features: Side fingerprint sensor.<br><br>
+Rs.36,990.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
