@@ -191,7 +191,8 @@ Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 8MP<br>
 Battery: 5000mAh, 18W charging<br>
 RAM/Storage: Up to 8GB/128GB<br>
-Special Features: IP53 rating, Glass back.</p>
+Special Features: IP53 rating, Glass back.<br><br>
+Rs.Rs.41,990</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
