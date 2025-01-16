@@ -113,7 +113,8 @@ Camera: 200MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 16MP<br>
 Battery: 5000mAh, 120W charging<br>
 RAM/Storage: Up to 12GB/512GB<br>
-Special Features: IP68 rating, Gorilla Glass Victus</p>
+Special Features: IP68 rating, Gorilla Glass Victus<br><br>
+RS.94,990.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -132,7 +133,7 @@ Front Camera: 16MP<br>
 Battery: 5100mAh, 67W charging<br>
 RAM/Storage: Up to 12GB/256GB<br>
 Special Features: IP54 rating<br><br>
-Rs.48,990.00</p>
+Rs.92,990.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
