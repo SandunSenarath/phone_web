@@ -55,7 +55,7 @@
                       Models
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="models_sam.php">Samsung</a></li>
+                      <li><a class="dropdown-item" href="models.php">Samsung</a></li>
                       <li><a class="dropdown-item" href="models_iphone.php">iPhone</a></li>
                       <!--<li><hr class="dropdown-divider"></li>-->
                       <li><a class="dropdown-item" href="models_redmi.php">Redmi</a></li>
@@ -89,32 +89,13 @@
           <p class="card-text" align="center"><small>Offer Available Only This Month</small></p>
           <div class="buy-bt">
             <div class="vertical-center">
-                <button type="button" class="btn btn-light">Buy Now</button>
+              <a href="#01" class="btn btn-primary">Buy Now</a>
             </div>
           </div>
         </div>
       </div>
   </div>
 
- <!--About Page-->
-<!--
-  <div class="row1">
-        <div class="card mb-5">
-          <div class="row g-0">
-            <div class="col-md-4">
-              <img src="Img/e.jpg" class="img-fluid rounded-start" alt="...">
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h1 class="card-title">About Us</h1>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-              </div>
-            </div>
-          </div>
-      </div>
-  </div>
--->
 
 <br><br><br>
 
@@ -263,7 +244,7 @@ Up to 12GB RAM and 1TB storage<br>
 S Pen support</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -282,7 +263,7 @@ Snapdragon 8 Gen 3 processor<br>
 4000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -298,7 +279,7 @@ Snapdragon 8 Gen 2 processor<br>
 Improved hinge design.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -313,7 +294,7 @@ Snapdragon 8 Gen 2 processor<br>
 8GB RAM.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
 </div>
     </div>
   </div>
@@ -335,7 +316,7 @@ Up to 8GB RAM, 256GB storage<br>
 IP67 water resistance.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -351,7 +332,7 @@ Exynos 1380 processor<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
 </div>
@@ -367,7 +348,7 @@ Exynos 1280 processor<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -386,7 +367,7 @@ Up to 8GB RAM, 256GB storage<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -402,7 +383,7 @@ MediaTek processor<br>
 6000mAh battery.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -416,7 +397,7 @@ Online exclusive availability<br>
 Competitive pricing</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
