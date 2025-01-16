@@ -92,7 +92,9 @@ Storage: 16GB/32GB, expandable via microSD<br>
 Camera: 13MP rear, 5MP front<br>
 Battery: 4100mAh<br>
 Special features: Metal body, fingerprint sensor<br>
-Operating System: MIUI 8 based on Android 6.0
+Operating System: MIUI 8 based on Android 6.0<br><br>
+Rs.29,500.00</p>
+
         </p>
       </div>
       <div class="card-footer">
