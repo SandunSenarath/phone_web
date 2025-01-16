@@ -128,8 +128,9 @@ Processor: Snapdragon 7s Gen 2<br>
 Camera: 200MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 16MP<br>
 Battery: 5100mAh, 67W charging<br>
-RAM/Storage: Up to 12GB/256GB<r>
-Special Features: IP54 rating</p>
+RAM/Storage: Up to 12GB/256GB<br>
+Special Features: IP54 rating<br><br>
+Rs.48,990.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
