@@ -113,7 +113,8 @@ Camera: 200MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 16MP<br>
 Battery: 5000mAh, 120W charging<br>
 RAM/Storage: Up to 12GB/512GB<br>
-Special Features: IP68 rating, Gorilla Glass Victus</p>
+Special Features: IP68 rating, Gorilla Glass Victus<br><br>
+RS.94,990.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -132,7 +133,7 @@ Front Camera: 16MP<br>
 Battery: 5100mAh, 67W charging<br>
 RAM/Storage: Up to 12GB/256GB<br>
 Special Features: IP54 rating<br><br>
-Rs.48,990.00</p>
+Rs.92,990.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -152,7 +153,8 @@ Processor: MediaTek Dimensity 6080<br>
 Camera: 108MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 16MP<br>
 Battery: 5000mAh, 33W charging<br>
-RAM/Storage: Up to 8GB/256GB</p>
+RAM/Storage: Up to 8GB/256GB<br><br>
+Rs.209,900.00 </p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -170,7 +172,8 @@ Camera: 50MP main + 2MP macro<br>
 Front Camera: 8MP<br>
 Battery: 5000mAh, 18W charging<br>
 RAM/Storage: Up to 8GB/256GB<br>
-Special Features: Side fingerprint sensor.</p>
+Special Features: Side fingerprint sensor.<br><br>
+Rs.36,990.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -188,7 +191,8 @@ Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 8MP<br>
 Battery: 5000mAh, 18W charging<br>
 RAM/Storage: Up to 8GB/128GB<br>
-Special Features: IP53 rating, Glass back.</p>
+Special Features: IP53 rating, Glass back.<br><br>
+Rs.Rs.41,990</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -211,7 +215,8 @@ Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 16MP<br>
 Battery: 5000mAh, 120W charging<br>
 RAM/Storage: Up to 24GB/1TB<br>
-Special Features: IR blaster, Dolby Vision</p>
+Special Features: IR blaster, Dolby Vision<br><br>
+Rs.111,182.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
@@ -244,7 +249,8 @@ Processor: MediaTek Helio G36<br>
 Camera: 8MP main<br>
 Battery: 5000mAh<br>
 RAM/Storage: Up to 4GB/64GB<br>
-Special Features: Leather-like back design</p>
+Special Features: Leather-like back design<br><br>
+Rs.37,702.86</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
