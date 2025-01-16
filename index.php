@@ -89,7 +89,7 @@
           <p class="card-text" align="center"><small>Offer Available Only This Month</small></p>
           <div class="buy-bt">
             <div class="vertical-center">
-              <a href="#01" class="btn btn-primary">Buy Now</a>
+              <a href="#A" class="btn btn-primary">Buy Now</a>
             </div>
           </div>
         </div>
@@ -152,7 +152,7 @@
   <br><br>
 
 <!-- Products Group-->
-<div class="row-products">
+<div class="row-products" id="A">
   <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="products card h-100">
