@@ -2,13 +2,13 @@
 try {
   require_once "public/dbconnect.php";
   require_once "public/myfunc.php";
-  if (isset($_GET['types'])) {
-    $tids=$_GET['types'];
+ // if (isset($_GET['types'])) {
+    //$tids=$_GET['types'];
     //print_r($tids);
-    $items = FilterBooksByTypes($connect,$tids);
-  } else {
-    $items = GetBookCoverPrice($connect);
-  }
+    //$items = FilterBooksByTypes($connect,$tids);
+  //} else {
+    $items = GetTypes($connect);
+  //}
   
   
   foreach ( $books as $key => $value) {

@@ -22,7 +22,7 @@ function GetBookCoverPrice($connect)
 }
 function GetTypes($connect)
 {
-	$sql ="select * from booktype";
+	$sql ="select * from samsung_model";
 	return GetData($connect,$sql);
 }
 
