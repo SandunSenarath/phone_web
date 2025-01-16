@@ -249,7 +249,8 @@ Processor: MediaTek Helio G36<br>
 Camera: 8MP main<br>
 Battery: 5000mAh<br>
 RAM/Storage: Up to 4GB/64GB<br>
-Special Features: Leather-like back design</p>
+Special Features: Leather-like back design<br><br>
+Rs.37,702.86</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
