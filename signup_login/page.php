@@ -9,12 +9,12 @@
 </head>
 <body>
     <?php
-        require_once 'dbconnect.php';
-        require_once 'functions.php';
+        require_once 'public/dbconnect.php';
+        require_once 'public/functions.php';
 
         function addData($connect,$fullname,$email,$password){
             try {
-                $sql = "INSERT INTO signup VALUES ('$name','$fullname','$email','$password')";
+                $sql = "INSERT INTO signup VALUES ('$fullname','$email','$password')";
         
             $result = mysqli_query($connect,$sql);
             if ($result) {
@@ -35,7 +35,7 @@
 
         }
 
-        addData($fullname,$email,$password);
+        addData($connect,$fullname,$email,$password);
 
     ?>
     <div class="container">
