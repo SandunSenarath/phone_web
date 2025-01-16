@@ -127,11 +127,11 @@ RS.94,990.00</p>
       <div class="card-body">
         <h5 class="card-title">Redmi Note 13 Pro 5G</h5>
         <p class="card-text">Display: 6.67" FHD+ AMOLED, 120Hz<br>
-Processor: Snapdragon 7s Gen 2<br>
-Camera: 200MP main + 8MP ultrawide + 2MP macro<br>
-Front Camera: 16MP<br>
-Battery: 5100mAh, 67W charging<br>
-RAM/Storage: Up to 12GB/256GB<br>
+Processor: Snapdragon 7s Gen 2
+Camera: 200MP main + 8MP ultrawide + 2MP macro
+Front Camera: 16MP
+Battery: 5100mAh, 67W charging
+RAM/Storage: Up to 12GB/256GB
 Special Features: IP54 rating<br><br>
 Rs.92,990.00</p>
       </div>
@@ -232,7 +232,8 @@ Rs.111,182.00</p>
 Processor: Snapdragon 8 Gen 2<br>
 Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
 Battery: 5500mAh, 120W charging<br>
-RAM/Storage: Up to 16GB/1TB</p>
+RAM/Storage: Up to 16GB/1TB<br>
+Rs.119,574.00</p>
       </div>   
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
