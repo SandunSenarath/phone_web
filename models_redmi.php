@@ -153,7 +153,8 @@ Processor: MediaTek Dimensity 6080<br>
 Camera: 108MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 16MP<br>
 Battery: 5000mAh, 33W charging<br>
-RAM/Storage: Up to 8GB/256GB</p>
+RAM/Storage: Up to 8GB/256GB<br><br>
+Rs.209,900.00 </p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
