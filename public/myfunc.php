@@ -20,7 +20,7 @@ function GetBookCoverPrice($connect)
 	$sql ="select Book_name,image_name,price from books";
 	return GetData($connect,$sql);
 }
-function GetBookTypes($connect)
+function GetTypes($connect)
 {
 	$sql ="select * from booktype";
 	return GetData($connect,$sql);
