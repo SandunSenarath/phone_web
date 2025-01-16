@@ -215,7 +215,8 @@ Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 16MP<br>
 Battery: 5000mAh, 120W charging<br>
 RAM/Storage: Up to 24GB/1TB<br>
-Special Features: IR blaster, Dolby Vision</p>
+Special Features: IR blaster, Dolby Vision<br><br>
+Rs.111,182.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
