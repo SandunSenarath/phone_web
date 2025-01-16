@@ -55,7 +55,7 @@
                       Models
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="models_sam.php">Samsung</a></li>
+                      <li><a class="dropdown-item" href="models.php">Samsung</a></li>
                       <li><a class="dropdown-item" href="models_iphone.php">iPhone</a></li>
                       <!--<li><hr class="dropdown-divider"></li>-->
                       <li><a class="dropdown-item" href="models_redmi.php">Redmi</a></li>
