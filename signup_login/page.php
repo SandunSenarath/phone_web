@@ -8,36 +8,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <?php
-        require_once 'public/dbconnect.php';
-        require_once 'public/functions.php';
-
-        function addData($connect,$fullname,$email,$password){
-            try {
-                $sql = "INSERT INTO signup VALUES ('$fullname','$email','$password')";
-        
-            $result = mysqli_query($connect,$sql);
-            if ($result) {
-                echo "record created successfully!";
-            }else{
-                die("Error".mysqli_error($connect));
-            }
-            } catch (Exception $e) {
-                die($e->getMessage());
-            }
-        }
-
-        if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-            //echo "Get the post request from the client";
-            $fullname = $_POST['fullname'];
-            $email = $_POST['email'];
-            $password = $_POST['password'];
-
-        }
-
-        addData($connect,$fullname,$email,$password);
-
-    ?>
+    
     <div class="container">
         <div class="left-section">
             
@@ -78,5 +49,36 @@
             </div>
         </div>
     </div>
+
+    <?php
+        require_once '../public/dbconnect.php';
+        require_once '../public/functions.php';
+
+        function addData($connect,$fullname,$email,$password){
+            try {
+                $sql = "INSERT INTO signup VALUES ('$fullname','$email','$password')";
+        
+            $result = mysqli_query($connect,$sql);
+            if ($result) {
+                echo "record created successfully!";
+            }else{
+                die("Error".mysqli_error($connect));
+            }
+            } catch (Exception $e) {
+                die($e->getMessage());
+            }
+        }
+
+        if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+            //echo "Get the post request from the client";
+            $fullname = $_POST['fullname'];
+            $email = $_POST['email'];
+            $password = $_POST['password'];
+            addData($connect,$fullname,$email,$password);
+        }
+
+        
+
+    ?>
 </body>
 </html>
