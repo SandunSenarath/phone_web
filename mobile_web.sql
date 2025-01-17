@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 16, 2025 at 03:33 PM
+-- Generation Time: Jan 17, 2025 at 09:15 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -20,6 +20,25 @@ SET time_zone = "+00:00";
 --
 -- Database: `mobile_web`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `buynow`
+--
+
+CREATE TABLE `buynow` (
+  `product_name` varchar(30) DEFAULT NULL,
+  `description` varchar(100) DEFAULT NULL,
+  `price` int(30) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `buynow`
+--
+
+INSERT INTO `buynow` (`product_name`, `description`, `price`) VALUES
+('', '', 0);
 
 -- --------------------------------------------------------
 
