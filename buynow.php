@@ -33,10 +33,10 @@
       $product_name = $_POST['product_name'];
       $description = $_POST['description'];
       $price = $_POST['price'];
-
+      addData($connect,$product_id,$product_name,$description,$price);
   }
 
-  addData($connect,$product_id,$product_name,$description,$price);
+  //addData($connect,$product_id,$product_name,$description,$price);
 
   ?>
     <script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js">
