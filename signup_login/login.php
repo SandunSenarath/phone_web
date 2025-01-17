@@ -47,5 +47,76 @@
             </div>
         </div>
     </div>
+    <?php
+    function getData($connect){
+    try {
+
+        if(isset($_POST['submit'])){
+
+            $email = $_POST['email'];
+            $password=$_POST['password'];
+
+        $sql = "select email,password from customer where email='$email'";
+
+            
+        $result = mysqli_query($connect,$sql);
+
+        $row = mysqli_fetch_assoc($result);
+        $countrec = mysqli_num_rows($result);
+        $uname=$row['email'];
+        $pword=$row['password'];
+
+        //echo $pword;
+        
+            if($email == 'admin@gmail.com' && $password == $pword){
+
+                header("Location:../index.php");
+                // echo "<script>
+               
+                //             window.open('../public/admin.php ', '_blank');  
+                //             window.location.href = 'payment.php' 
+                //                 </script>";
+
+            }
+            else if($uname == $email && $password == $pword){
+
+                header("Location:payment.php");
+            // echo "<script>
+               
+            //         window.open('payment.php ', '_blank');  
+            //         window.location.href = 'Home Heaven Furniture.php' 
+            //             </script>";
+            }else{
+                echo "<script>
+                        alert('Password is incorrect! Try Again');
+                        document.getElementById('loginForm').reset();
+                    </script>";
+            }
+        
+    
+        
+        
+        
+
+
+     
+    } 
+}catch (Exception $e) {
+        die($e->getMessage());
+    }
+}
+
+try{
+    if(isset($_POST['submit'])){
+    $name = $_POST['email'];
+    $password = $_POST['password'];
+
+    getData($connect,$name,$password);
+
+}
+}catch(Exception $e)
+{}
+    
+?> 
 </body>
 </html>
