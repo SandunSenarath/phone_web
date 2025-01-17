@@ -12,7 +12,7 @@
     require_once 'public/dbconnect.php';
     require_once 'public/functions.php';
 
-    function addData($connect,$model,$fullname,$email,$address){
+    function addData($connect,$product_name,$description,$price){
       try{
         $sql = "INSERT INTO buynow values('$model','$fullname','$email','$address')";
       
