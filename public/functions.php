@@ -71,20 +71,20 @@ function printTable1($connect,$name,$contact_no,$email,$message){
 }
 
 //insert data into table
-    function addData($connect,$name,$contact_no,$email,$message){
-        try {
-            $sql = "INSERT INTO contactus VALUES ('$name','$contact_no','$email','$message')";
+    // function addData($connect,$name,$contact_no,$email,$message){
+    //     try {
+    //         $sql = "INSERT INTO contactus VALUES ('$name','$contact_no','$email','$message')";
     
-        $result = mysqli_query($connect,$sql);
-        if ($result) {
-            echo "record created successfully!";
-        }else{
-            die("Error".mysqli_error($connect));
-        }
-        } catch (Exception $e) {
-            die($e->getMessage());
-        }
-    }
+    //     $result = mysqli_query($connect,$sql);
+    //     if ($result) {
+    //         echo "record created successfully!";
+    //     }else{
+    //         die("Error".mysqli_error($connect));
+    //     }
+    //     } catch (Exception $e) {
+    //         die($e->getMessage());
+    //     }
+    // }
 
 
 
