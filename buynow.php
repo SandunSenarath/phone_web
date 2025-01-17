@@ -14,7 +14,7 @@
 
     function addData($connect,$product_name,$description,$price){
       try{
-        $sql = "INSERT INTO buynow values('$model','$fullname','$email','$address')";
+        $sql = "INSERT INTO buynow values('$product_name','$description','$price')";
       
       $result = mysqli_query($connect,$sql);
       if($result){
