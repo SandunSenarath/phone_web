@@ -15,29 +15,29 @@ function GetData($connect,$query){
 	return $arr;
 }
 
-function GetBookCoverPrice($connect)
-{
-	$sql ="select Book_name,image_name,price from books";
-	return GetData($connect,$sql);
-}
+// function GetBookCoverPrice($connect)
+// {
+// 	$sql ="select Book_name,image_name,price from books";
+// 	return GetData($connect,$sql);
+// }
 function GetTypes($connect)
 {
 	$sql ="select * from samsung_model";
 	return GetData($connect,$sql);
 }
 
-function FilterBooksByTypes($connect,$tids)
-{
-	$sql ="select * from books where ";
-	foreach ($tids as $key => $tid) {
-		if ($key == 0) {
-			$sql.= "Book_type_id = '$tid'";
-		}else{
-			$sql.= " or Book_type_id = '$tid'";
-		}
-	}
-	return GetData($connect,$sql);
-}
+// function FilterBooksByTypes($connect,$tids)
+// {
+// 	$sql ="select * from books where ";
+// 	foreach ($tids as $key => $tid) {
+// 		if ($key == 0) {
+// 			$sql.= "Book_type_id = '$tid'";
+// 		}else{
+// 			$sql.= " or Book_type_id = '$tid'";
+// 		}
+// 	}
+// 	return GetData($connect,$sql);
+// }
 
 
 ?>
